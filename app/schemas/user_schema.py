@@ -22,7 +22,7 @@ class UserResponse(BaseModel):
         from_attributes = True
 
 class UserUpdate(BaseModel):
-    email: Optional[str] = EmailStr
+    email: Optional[EmailStr]
     password: Optional[str] = Field(min_length=8, max_length=10)
     role: Optional[RoleEnum]
 
