@@ -3,5 +3,8 @@ uvicorn
 sqlalchemy
 bcrypt
 email-validator
-enum
+passlib
+python-jose[cryptography]
 dotenv
+logging
+bandit

@@ -6,7 +6,6 @@ SECRET_KEY = Config.SECRET_KEY
 ALGORITHM = Config.ALGORITHM
 ACCESS_TOKEN_EXPIRE_MINUTES = Config.ACCESS_TOKEN_EXPIRE_MINUTES
 
-
 def create_access_token(data: dict):
     to_encode = data.copy()
 

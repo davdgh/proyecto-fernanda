@@ -1,0 +1,335 @@
+[2026-04-01 11:36:46] | DEBUG | loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+[2026-04-01 11:36:46] | DEBUG | loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+[2026-04-01 11:36:46] | DEBUG | loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+[2026-04-01 11:36:46] | DEBUG | registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+[2026-04-01 11:38:00] | DEBUG | loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+[2026-04-01 11:38:00] | DEBUG | loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+[2026-04-01 11:38:00] | DEBUG | loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+[2026-04-01 11:38:00] | DEBUG | registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+[2026-04-01 11:38:06] | DEBUG | loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+[2026-04-01 11:38:06] | DEBUG | loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+[2026-04-01 11:38:06] | DEBUG | loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+[2026-04-01 11:38:06] | DEBUG | registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+[2026-04-01 11:38:15] | DEBUG | loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+[2026-04-01 11:38:15] | DEBUG | loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+[2026-04-01 11:38:15] | DEBUG | loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+[2026-04-01 11:38:15] | DEBUG | registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+[2026-04-01 11:38:21] | DEBUG | loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+[2026-04-01 11:38:21] | DEBUG | loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+[2026-04-01 11:38:21] | DEBUG | loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+[2026-04-01 11:38:21] | DEBUG | registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+[2026-04-01 11:38:35] | DEBUG | loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+[2026-04-01 11:38:35] | DEBUG | loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+[2026-04-01 11:38:35] | DEBUG | loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+[2026-04-01 11:38:35] | DEBUG | registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+[2026-04-01 11:38:45] | DEBUG | loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+[2026-04-01 11:38:45] | DEBUG | loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+[2026-04-01 11:38:45] | DEBUG | loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+[2026-04-01 11:38:45] | DEBUG | registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+[2026-04-01 11:38:48] | DEBUG | loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+[2026-04-01 11:38:48] | DEBUG | loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+[2026-04-01 11:38:48] | DEBUG | loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+[2026-04-01 11:38:48] | DEBUG | registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+[2026-04-01 11:38:58] | DEBUG | loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+[2026-04-01 11:38:58] | DEBUG | loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+[2026-04-01 11:38:58] | DEBUG | loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+[2026-04-01 11:38:58] | DEBUG | registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+[2026-04-01 11:39:05] | INFO | Se entro a la función para crear la conexión a la base de datos
+[2026-04-01 11:39:05] | DEBUG | BD status: creating
+[2026-04-01 11:39:05] | INFO | Se creó con éxito la conexión base de datos
+[2026-04-01 11:39:05] | DEBUG | BD status: created
+[2026-04-01 11:39:05] | ERROR | Ocurrió un error al crear la conexión a la base de datos
+[2026-04-01 11:39:05] | INFO | Se cerró la conexión a la base de datos
+[2026-04-01 11:39:05] | DEBUG | BD status: closed
+[2026-04-01 11:39:28] | DEBUG | loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+[2026-04-01 11:39:28] | DEBUG | loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+[2026-04-01 11:39:28] | DEBUG | loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+[2026-04-01 11:39:28] | DEBUG | registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+[2026-04-01 11:39:31] | DEBUG | loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+[2026-04-01 11:39:31] | DEBUG | loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+[2026-04-01 11:39:31] | DEBUG | loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+[2026-04-01 11:39:31] | DEBUG | registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+[2026-04-01 11:39:35] | DEBUG | loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+[2026-04-01 11:39:35] | DEBUG | loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+[2026-04-01 11:39:35] | DEBUG | loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+[2026-04-01 11:39:35] | DEBUG | registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+[2026-04-01 11:39:40] | DEBUG | loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+[2026-04-01 11:39:40] | DEBUG | loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+[2026-04-01 11:39:40] | DEBUG | loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+[2026-04-01 11:39:40] | DEBUG | registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+[2026-04-01 11:39:47] | INFO | Se entro a la función para crear la conexión a la base de datos
+[2026-04-01 11:39:47] | DEBUG | BD status: creating
+[2026-04-01 11:39:47] | INFO | Se creó con éxito la conexión base de datos
+[2026-04-01 11:39:47] | DEBUG | BD status: created
+[2026-04-01 11:39:47] | ERROR | Ocurrió un error al crear la conexión a la base de datos
+[2026-04-01 11:39:47] | INFO | Se cerró la conexión a la base de datos
+[2026-04-01 11:39:47] | DEBUG | BD status: closed
+[2026-04-01 11:40:08] | DEBUG | loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+[2026-04-01 11:40:08] | DEBUG | loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+[2026-04-01 11:40:08] | DEBUG | loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+[2026-04-01 11:40:08] | DEBUG | registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+[2026-04-01 11:40:12] | INFO | Se entro a la función para crear la conexión a la base de datos
+[2026-04-01 11:40:12] | DEBUG | BD status: creating
+[2026-04-01 11:40:12] | INFO | Se creó con éxito la conexión base de datos
+[2026-04-01 11:40:12] | DEBUG | BD status: created
+[2026-04-01 11:40:12] | ERROR | Ocurrió un error al crear la conexión a la base de datos
+[2026-04-01 11:40:12] | INFO | Se cerró la conexión a la base de datos
+[2026-04-01 11:40:12] | DEBUG | BD status: closed
+[2026-04-01 11:42:28] | DEBUG | loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+[2026-04-01 11:42:28] | DEBUG | loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+[2026-04-01 11:42:28] | DEBUG | loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+[2026-04-01 11:42:28] | DEBUG | registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+[2026-04-01 11:42:48] | DEBUG | loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+[2026-04-01 11:42:48] | DEBUG | loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+[2026-04-01 11:42:48] | DEBUG | loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+[2026-04-01 11:42:48] | DEBUG | registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+[2026-04-01 11:42:57] | INFO | Se entro a la función para crear la conexión a la base de datos
+[2026-04-01 11:42:57] | DEBUG | BD status: creating
+[2026-04-01 11:42:57] | INFO | Se creó con éxito la conexión base de datos
+[2026-04-01 11:42:57] | DEBUG | BD status: created
+[2026-04-01 11:42:57] | ERROR | Ocurrió un error al crear la conexión a la base de datos
+[2026-04-01 11:42:57] | INFO | Se cerró la conexión a la base de datos
+[2026-04-01 11:42:57] | DEBUG | BD status: closed
+[2026-04-01 11:44:00] | INFO | Se entro a la función para crear la conexión a la base de datos
+[2026-04-01 11:44:00] | DEBUG | BD status: creating
+[2026-04-01 11:44:00] | INFO | Se creó con éxito la conexión base de datos
+[2026-04-01 11:44:00] | DEBUG | BD status: created
+[2026-04-01 11:44:00] | ERROR | Ocurrió un error al crear la conexión a la base de datos
+[2026-04-01 11:44:00] | INFO | Se cerró la conexión a la base de datos
+[2026-04-01 11:44:00] | DEBUG | BD status: closed
+[2026-04-01 11:44:08] | INFO | Se entro a la función para crear la conexión a la base de datos
+[2026-04-01 11:44:08] | DEBUG | BD status: creating
+[2026-04-01 11:44:08] | INFO | Se creó con éxito la conexión base de datos
+[2026-04-01 11:44:08] | DEBUG | BD status: created
+[2026-04-01 11:44:08] | ERROR | Ocurrió un error al crear la conexión a la base de datos
+[2026-04-01 11:44:08] | INFO | Se cerró la conexión a la base de datos
+[2026-04-01 11:44:08] | DEBUG | BD status: closed
+[2026-04-01 11:45:36] | DEBUG | loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+[2026-04-01 11:45:36] | DEBUG | loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+[2026-04-01 11:45:36] | DEBUG | loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+[2026-04-01 11:45:36] | DEBUG | registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+[2026-04-01 11:45:39] | INFO | Se entro a la función para crear la conexión a la base de datos
+[2026-04-01 11:45:39] | DEBUG | BD status: creating
+[2026-04-01 11:45:39] | INFO | Se creó con éxito la conexión base de datos
+[2026-04-01 11:45:39] | DEBUG | BD status: created
+[2026-04-01 11:45:39] | ERROR | Ocurrió un error al crear la conexión a la base de datos
+[2026-04-01 11:45:39] | INFO | Se cerró la conexión a la base de datos
+[2026-04-01 11:45:39] | DEBUG | BD status: closed
+[2026-04-01 11:45:44] | INFO | Se entro a la función para crear la conexión a la base de datos
+[2026-04-01 11:45:44] | DEBUG | BD status: creating
+[2026-04-01 11:45:44] | INFO | Se creó con éxito la conexión base de datos
+[2026-04-01 11:45:44] | DEBUG | BD status: created
+[2026-04-01 11:45:44] | ERROR | Ocurrió un error al crear la conexión a la base de datos
+[2026-04-01 11:45:44] | INFO | Se cerró la conexión a la base de datos
+[2026-04-01 11:45:44] | DEBUG | BD status: closed
+[2026-04-01 11:46:15] | INFO | Se entro a la función para crear la conexión a la base de datos
+[2026-04-01 11:46:15] | DEBUG | BD status: creating
+[2026-04-01 11:46:15] | INFO | Se creó con éxito la conexión base de datos
+[2026-04-01 11:46:15] | DEBUG | BD status: created
+[2026-04-01 11:46:15] | ERROR | Ocurrió un error al crear la conexión a la base de datos
+[2026-04-01 11:46:15] | INFO | Se cerró la conexión a la base de datos
+[2026-04-01 11:46:15] | DEBUG | BD status: closed
+[2026-04-01 13:13:26] | INFO | Se entro a la función para crear la conexión a la base de datos
+[2026-04-01 13:13:26] | DEBUG | BD status: creating
+[2026-04-01 13:13:26] | INFO | Se creó con éxito la conexión base de datos
+[2026-04-01 13:13:26] | DEBUG | BD status: created
+[2026-04-01 13:13:26] | ERROR | Ocurrió un error al crear la conexión a la base de datos
+[2026-04-01 13:13:26] | INFO | Se cerró la conexión a la base de datos
+[2026-04-01 13:13:26] | DEBUG | BD status: closed
+[2026-04-01 13:13:53] | INFO | Se entro a la función para crear la conexión a la base de datos
+[2026-04-01 13:13:53] | DEBUG | BD status: creating
+[2026-04-01 13:13:53] | INFO | Se creó con éxito la conexión base de datos
+[2026-04-01 13:13:53] | DEBUG | BD status: created
+[2026-04-01 13:13:53] | ERROR | Ocurrió un error al crear la conexión a la base de datos
+[2026-04-01 13:13:53] | INFO | Se cerró la conexión a la base de datos
+[2026-04-01 13:13:53] | DEBUG | BD status: closed
+[2026-04-01 13:15:06] | INFO | Se entro a la función para crear la conexión a la base de datos
+[2026-04-01 13:15:06] | DEBUG | BD status: creating
+[2026-04-01 13:15:06] | INFO | Se creó con éxito la conexión base de datos
+[2026-04-01 13:15:06] | DEBUG | BD status: created
+[2026-04-01 13:15:06] | ERROR | Ocurrió un error al crear la conexión a la base de datos
+[2026-04-01 13:15:06] | INFO | Se cerró la conexión a la base de datos
+[2026-04-01 13:15:06] | DEBUG | BD status: closed
+[2026-04-01 13:15:10] | INFO | Se entro a la función para crear la conexión a la base de datos
+[2026-04-01 13:15:10] | DEBUG | BD status: creating
+[2026-04-01 13:15:10] | INFO | Se creó con éxito la conexión base de datos
+[2026-04-01 13:15:10] | DEBUG | BD status: created
+[2026-04-01 13:15:10] | INFO | Se entró a la ruta de registro
+[2026-04-01 13:15:10] | DEBUG | ENDPOINT: /register, Info: Usuario ya existente, se rechaza la creación de nuevo usuario
+[2026-04-01 13:15:10] | WARNING | El correo: 'davidgh@gmail.com' ya se encuentra registrado
+[2026-04-01 13:15:10] | ERROR | Ocurrió un error al crear la conexión a la base de datos
+[2026-04-01 13:15:10] | DEBUG | BD status: refused, reason: 400: El correo ya está registrado
+[2026-04-01 13:15:10] | INFO | Se cerró la conexión a la base de datos
+[2026-04-01 13:15:10] | DEBUG | BD status: closed
+[2026-04-01 13:15:50] | DEBUG | loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+[2026-04-01 13:15:50] | DEBUG | loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+[2026-04-01 13:15:50] | DEBUG | loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+[2026-04-01 13:15:50] | DEBUG | registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+[2026-04-01 13:16:26] | DEBUG | loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+[2026-04-01 13:16:26] | DEBUG | loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+[2026-04-01 13:16:26] | DEBUG | loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+[2026-04-01 13:16:26] | DEBUG | registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+[2026-04-01 13:16:31] | INFO | Se entro a la función para crear la conexión a la base de datos
+[2026-04-01 13:16:31] | DEBUG | BD status: creating
+[2026-04-01 13:16:31] | INFO | Se creó con éxito la conexión base de datos
+[2026-04-01 13:16:31] | DEBUG | BD status: created
+[2026-04-01 13:16:31] | INFO | Se entró a la ruta de registro
+[2026-04-01 13:16:31] | DEBUG | ENDPOINT: /register, Info: Correo ya existente, se rechaza la creación de nuevo usuario
+[2026-04-01 13:16:31] | WARNING | El correo: 'davidgh@gmail.com' ya se encuentra en la base de datos
+[2026-04-01 13:16:31] | ERROR | Ocurrió un error al crear la conexión a la base de datos
+[2026-04-01 13:16:31] | DEBUG | BD status: refused, reason: 400: El correo ya está registrado
+[2026-04-01 13:16:31] | INFO | Se cerró la conexión a la base de datos
+[2026-04-01 13:16:31] | DEBUG | BD status: closed
+[2026-04-01 13:16:46] | INFO | Se entro a la función para crear la conexión a la base de datos
+[2026-04-01 13:16:46] | DEBUG | BD status: creating
+[2026-04-01 13:16:46] | INFO | Se creó con éxito la conexión base de datos
+[2026-04-01 13:16:46] | DEBUG | BD status: created
+[2026-04-01 13:16:46] | INFO | Se entró a la ruta de registro
+[2026-04-01 13:16:46] | INFO | Usuario creado con éxito
+[2026-04-01 13:16:46] | INFO | Se cerró la conexión a la base de datos
+[2026-04-01 13:16:46] | DEBUG | BD status: closed
+[2026-04-01 13:23:40] | DEBUG | loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+[2026-04-01 13:23:40] | DEBUG | loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+[2026-04-01 13:23:40] | DEBUG | loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+[2026-04-01 13:23:40] | DEBUG | registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+[2026-04-01 13:23:47] | INFO | Se entro a la función para crear la conexión a la base de datos
+[2026-04-01 13:23:47] | DEBUG | BD status: creating
+[2026-04-01 13:23:47] | INFO | Se creó con éxito la conexión base de datos
+[2026-04-01 13:23:47] | DEBUG | BD status: created
+[2026-04-01 13:23:47] | ERROR | Ocurrió un error al crear la conexión a la base de datos
+[2026-04-01 13:23:47] | INFO | Se cerró la conexión a la base de datos
+[2026-04-01 13:23:47] | DEBUG | BD status: closed
+[2026-04-01 13:24:15] | INFO | Se entro a la función para crear la conexión a la base de datos
+[2026-04-01 13:24:15] | DEBUG | BD status: creating
+[2026-04-01 13:24:15] | INFO | Se creó con éxito la conexión base de datos
+[2026-04-01 13:24:15] | DEBUG | BD status: created
+[2026-04-01 13:24:15] | INFO | Se entró al endpoint de login
+[2026-04-01 13:24:15] | DEBUG | detected 'bcrypt' backend, version '<unknown>'
+[2026-04-01 13:24:15] | DEBUG | 'bcrypt' backend lacks $2$ support, enabling workaround
+[2026-04-01 13:24:15] | ERROR | Ocurrió un error al crear la conexión a la base de datos
+[2026-04-01 13:24:15] | DEBUG | BD status: refused, reason: password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+[2026-04-01 13:24:15] | INFO | Se cerró la conexión a la base de datos
+[2026-04-01 13:24:15] | DEBUG | BD status: closed
+[2026-04-01 13:27:28] | DEBUG | loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+[2026-04-01 13:27:28] | DEBUG | loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+[2026-04-01 13:27:28] | DEBUG | loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+[2026-04-01 13:27:28] | DEBUG | registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+[2026-04-01 13:27:35] | DEBUG | loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+[2026-04-01 13:27:35] | DEBUG | loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+[2026-04-01 13:27:35] | DEBUG | loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+[2026-04-01 13:27:35] | DEBUG | registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+[2026-04-01 13:30:09] | INFO | Se entro a la función para crear la conexión a la base de datos
+[2026-04-01 13:30:09] | DEBUG | BD status: creating
+[2026-04-01 13:30:09] | INFO | Se creó con éxito la conexión base de datos
+[2026-04-01 13:30:09] | DEBUG | BD status: created
+[2026-04-01 13:30:09] | INFO | Se entró al endpoint de login
+[2026-04-01 13:30:10] | DEBUG | ENDPOINT: /login, Info: La contraseña especificada no coincide con la que se encuentra en la base datos
+[2026-04-01 13:30:10] | WARNING | Contraseñas distintas
+[2026-04-01 13:30:10] | ERROR | Ocurrió un error al crear la conexión a la base de datos
+[2026-04-01 13:30:10] | DEBUG | BD status: refused, reason: 401: Credenciales incorrectas
+[2026-04-01 13:30:10] | INFO | Se cerró la conexión a la base de datos
+[2026-04-01 13:30:10] | DEBUG | BD status: closed
+[2026-04-01 13:30:15] | INFO | Se entro a la función para crear la conexión a la base de datos
+[2026-04-01 13:30:15] | DEBUG | BD status: creating
+[2026-04-01 13:30:15] | INFO | Se creó con éxito la conexión base de datos
+[2026-04-01 13:30:15] | DEBUG | BD status: created
+[2026-04-01 13:30:15] | INFO | Se entró al endpoint de login
+[2026-04-01 13:30:15] | ERROR | Ocurrió un error al crear la conexión a la base de datos
+[2026-04-01 13:30:15] | DEBUG | BD status: refused, reason: Expecting a string- or bytes-formatted key.
+[2026-04-01 13:30:15] | INFO | Se cerró la conexión a la base de datos
+[2026-04-01 13:30:15] | DEBUG | BD status: closed
+[2026-04-01 13:31:57] | INFO | Se entro a la función para crear la conexión a la base de datos
+[2026-04-01 13:31:57] | DEBUG | BD status: creating
+[2026-04-01 13:31:57] | INFO | Se creó con éxito la conexión base de datos
+[2026-04-01 13:31:57] | DEBUG | BD status: created
+[2026-04-01 13:31:57] | INFO | Se entró al endpoint de login
+[2026-04-01 13:31:58] | ERROR | Ocurrió un error al crear la conexión a la base de datos
+[2026-04-01 13:31:58] | DEBUG | BD status: refused, reason: Expecting a string- or bytes-formatted key.
+[2026-04-01 13:31:58] | INFO | Se cerró la conexión a la base de datos
+[2026-04-01 13:31:58] | DEBUG | BD status: closed
+[2026-04-01 13:33:31] | INFO | Se entro a la función para crear la conexión a la base de datos
+[2026-04-01 13:33:31] | DEBUG | BD status: creating
+[2026-04-01 13:33:31] | INFO | Se creó con éxito la conexión base de datos
+[2026-04-01 13:33:31] | DEBUG | BD status: created
+[2026-04-01 13:33:31] | INFO | Se entró al endpoint de login
+[2026-04-01 13:33:31] | INFO | JWT creado con éxito
+[2026-04-01 13:33:31] | INFO | Se cerró la conexión a la base de datos
+[2026-04-01 13:33:31] | DEBUG | BD status: closed
+[2026-04-01 13:36:15] | INFO | Se entro a la función para crear la conexión a la base de datos
+[2026-04-01 13:36:15] | DEBUG | BD status: creating
+[2026-04-01 13:36:15] | INFO | Se creó con éxito la conexión base de datos
+[2026-04-01 13:36:15] | DEBUG | BD status: created
+[2026-04-01 13:36:15] | INFO | Se entró al endpoint de login
+[2026-04-01 13:36:15] | INFO | JWT creado con éxito
+[2026-04-01 13:36:15] | INFO | Se cerró la conexión a la base de datos
+[2026-04-01 13:36:15] | DEBUG | BD status: closed
+[2026-04-01 13:36:24] | INFO | Se entro a la función para crear la conexión a la base de datos
+[2026-04-01 13:36:24] | DEBUG | BD status: creating
+[2026-04-01 13:36:24] | INFO | Se creó con éxito la conexión base de datos
+[2026-04-01 13:36:24] | DEBUG | BD status: created
+[2026-04-01 13:36:24] | INFO | Se entró al endpoint de login
+[2026-04-01 13:36:24] | ERROR | Ocurrió un error al crear la conexión a la base de datos
+[2026-04-01 13:36:24] | DEBUG | BD status: refused, reason: Expecting a string- or bytes-formatted key.
+[2026-04-01 13:36:24] | INFO | Se cerró la conexión a la base de datos
+[2026-04-01 13:36:24] | DEBUG | BD status: closed
+[2026-04-01 13:38:04] | INFO | Se entro a la función para crear la conexión a la base de datos
+[2026-04-01 13:38:04] | DEBUG | BD status: creating
+[2026-04-01 13:38:04] | INFO | Se creó con éxito la conexión base de datos
+[2026-04-01 13:38:04] | DEBUG | BD status: created
+[2026-04-01 13:38:04] | INFO | Se entró al endpoint de login
+[2026-04-01 13:38:05] | ERROR | Ocurrió un error al crear la conexión a la base de datos
+[2026-04-01 13:38:05] | DEBUG | BD status: refused, reason: Expecting a string- or bytes-formatted key.
+[2026-04-01 13:38:05] | INFO | Se cerró la conexión a la base de datos
+[2026-04-01 13:38:05] | DEBUG | BD status: closed
+[2026-04-01 13:39:52] | INFO | Se entro a la función para crear la conexión a la base de datos
+[2026-04-01 13:39:52] | DEBUG | BD status: creating
+[2026-04-01 13:39:52] | INFO | Se creó con éxito la conexión base de datos
+[2026-04-01 13:39:52] | DEBUG | BD status: created
+[2026-04-01 13:39:52] | INFO | Se entró al endpoint de login
+[2026-04-01 13:39:52] | ERROR | Ocurrió un error al crear la conexión a la base de datos
+[2026-04-01 13:39:52] | DEBUG | BD status: refused, reason: Expecting a string- or bytes-formatted key.
+[2026-04-01 13:39:52] | INFO | Se cerró la conexión a la base de datos
+[2026-04-01 13:39:52] | DEBUG | BD status: closed
+[2026-04-01 13:42:08] | INFO | Se entro a la función para crear la conexión a la base de datos
+[2026-04-01 13:42:08] | DEBUG | BD status: creating
+[2026-04-01 13:42:08] | INFO | Se creó con éxito la conexión base de datos
+[2026-04-01 13:42:08] | DEBUG | BD status: created
+[2026-04-01 13:42:08] | INFO | Se entró al endpoint de login
+[2026-04-01 13:42:08] | ERROR | Ocurrió un error al crear la conexión a la base de datos
+[2026-04-01 13:42:08] | DEBUG | BD status: refused, reason: Expecting a string- or bytes-formatted key.
+[2026-04-01 13:42:08] | INFO | Se cerró la conexión a la base de datos
+[2026-04-01 13:42:08] | DEBUG | BD status: closed
+[2026-04-01 14:00:08] | INFO | Se entro a la función para crear la conexión a la base de datos
+[2026-04-01 14:00:08] | DEBUG | BD status: creating
+[2026-04-01 14:00:08] | INFO | Se creó con éxito la conexión base de datos
+[2026-04-01 14:00:08] | DEBUG | BD status: created
+[2026-04-01 14:00:08] | INFO | Se entró al endpoint para conseguir a todos los usuarios existentes
+[2026-04-01 14:00:08] | INFO | Se recuperaron todos los usuarios con éxito
+[2026-04-01 14:00:08] | INFO | Se cerró la conexión a la base de datos
+[2026-04-01 14:00:08] | DEBUG | BD status: closed[2026-04-02 13:14:52] | INFO | Se entro a la función para crear la conexión a la base de datos
+[2026-04-02 13:14:52] | DEBUG | BD status: creating
+[2026-04-02 13:14:52] | INFO | Se creó con éxito la conexión base de datos
+[2026-04-02 13:14:52] | DEBUG | BD status: created
+[2026-04-02 13:14:52] | INFO | Se entró al endpoint para conseguir a todos los usuarios existentes
+[2026-04-02 13:14:52] | INFO | Se recuperaron todos los usuarios con éxito
+[2026-04-02 13:14:52] | INFO | Se cerró la conexión a la base de datos
+[2026-04-02 13:14:52] | DEBUG | BD status: closed
+[2026-04-02 13:15:05] | INFO | Se entro a la función para crear la conexión a la base de datos
+[2026-04-02 13:15:05] | DEBUG | BD status: creating
+[2026-04-02 13:15:05] | INFO | Se creó con éxito la conexión base de datos
+[2026-04-02 13:15:05] | DEBUG | BD status: created
+[2026-04-02 13:15:05] | INFO | Se entró al endpoint de obtener usuario por su id
+[2026-04-02 13:15:05] | DEBUG | ENDPOINT: /users/8, METHOD: GET, Info: No se encontró ningún usuario con el id: '8'
+[2026-04-02 13:15:05] | WARNING | No se encontró ningún usuario con el id
+[2026-04-02 13:15:05] | ERROR | Ocurrió un error al crear la conexión a la base de datos
+[2026-04-02 13:15:05] | DEBUG | BD status: refused, reason: 404: Usuario no encontrado
+[2026-04-02 13:15:05] | INFO | Se cerró la conexión a la base de datos
+[2026-04-02 13:15:05] | DEBUG | BD status: closed
+[2026-04-02 13:15:24] | INFO | Se entro a la función para crear la conexión a la base de datos
+[2026-04-02 13:15:24] | DEBUG | BD status: creating
+[2026-04-02 13:15:24] | INFO | Se creó con éxito la conexión base de datos
+[2026-04-02 13:15:24] | DEBUG | BD status: created
+[2026-04-02 13:15:24] | INFO | Se entró al endpoint de obtener usuario por su id
+[2026-04-02 13:15:24] | INFO | Usuario recuperado con éxito
+[2026-04-02 13:15:24] | INFO | Se cerró la conexión a la base de datos
+[2026-04-02 13:15:24] | DEBUG | BD status: closed
